@@ -7,7 +7,7 @@ export const jobs: Job[] = [
     nameEn: 'PALADIN',
     url: 'https://jp.finalfantasyxiv.com/jobguide/paladin/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/3/Jk768MD2Ejd7XopHym7bnXJTWg.png',
-    iconName: '/src/assets/job-icon/Paladin.png',
+    iconName: '/job-icon/Paladin.png',
     characteristics: {
       leadership: 9,    // チームを守るリーダー的存在
       teamwork: 8,      // パーティ防衛が重要
@@ -23,7 +23,7 @@ export const jobs: Job[] = [
     nameEn: 'WARRIOR',
     url: 'https://jp.finalfantasyxiv.com/jobguide/warrior/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/m/o2eIFSXFUps-cL0M0QHXeruKDU.png',
-    iconName: '/src/assets/job-icon/Warrior.png',
+    iconName: '/job-icon/Warrior.png',
     characteristics: {
       leadership: 7,
       teamwork: 7,
@@ -39,7 +39,7 @@ export const jobs: Job[] = [
     nameEn: 'DARK KNIGHT',
     url: 'https://jp.finalfantasyxiv.com/jobguide/darkknight/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/R/cZwPezbiJD6q2D8KfgKrs2DDno.png',
-    iconName: '/src/assets/job-icon/DarkKnight.png',
+    iconName: '/job-icon/DarkKnight.png',
     characteristics: {
       leadership: 6,
       teamwork: 7,
@@ -55,7 +55,7 @@ export const jobs: Job[] = [
     nameEn: 'GUNBREAKER',
     url: 'https://jp.finalfantasyxiv.com/jobguide/gunbreaker/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/g/N7ppA6IXf15TGnAxo9aLnhHdlg.png',
-    iconName: '/src/assets/job-icon/Gunbreaker.png',
+    iconName: '/job-icon/Gunbreaker.png',
     characteristics: {
       leadership: 6,
       teamwork: 7,
@@ -73,7 +73,7 @@ export const jobs: Job[] = [
     nameEn: 'WHITE MAGE',
     url: 'https://jp.finalfantasyxiv.com/jobguide/whitemage/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/D/g126NNaDPy03HLOIEsJy5MRBXY.png',
-    iconName: '/src/assets/job-icon/WhiteMage.png',
+    iconName: '/job-icon/WhiteMage.png',
     characteristics: {
       leadership: 6,
       teamwork: 9,
@@ -89,7 +89,7 @@ export const jobs: Job[] = [
     nameEn: 'SCHOLAR',
     url: 'https://jp.finalfantasyxiv.com/jobguide/scholar/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/V/bQ475vaKvyHIPXVvFE5Z0VQJUc.png',
-    iconName: '/src/assets/job-icon/Scholar.png',
+    iconName: '/job-icon/Scholar.png',
     characteristics: {
       leadership: 5,
       teamwork: 9,
@@ -105,7 +105,7 @@ export const jobs: Job[] = [
     nameEn: 'ASTROLOGIAN',
     url: 'https://jp.finalfantasyxiv.com/jobguide/astrologian/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/j/m-sk7cvaIWeF-DwE6UH7Y9jCJQ.png',
-    iconName: '/src/assets/job-icon/Astrologian.png',
+    iconName: '/job-icon/Astrologian.png',
     characteristics: {
       leadership: 5,
       teamwork: 10,
@@ -121,7 +121,7 @@ export const jobs: Job[] = [
     nameEn: 'SAGE',
     url: 'https://jp.finalfantasyxiv.com/jobguide/sage/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/p/9JunzjM3EbubxCzomD_27WPNeY.png',
-    iconName: '/src/assets/job-icon/Sage.png',
+    iconName: '/job-icon/Sage.png',
     characteristics: {
       leadership: 5,
       teamwork: 8,
@@ -139,7 +139,7 @@ export const jobs: Job[] = [
     nameEn: 'MONK',
     url: 'https://jp.finalfantasyxiv.com/jobguide/monk/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/r/cKkb0EEXdAE5yLrg4ll7kGrLys.png',
-    iconName: '/src/assets/job-icon/Monk.png',
+    iconName: '/job-icon/Monk.png',
     characteristics: {
       leadership: 4,
       teamwork: 6,
@@ -155,7 +155,7 @@ export const jobs: Job[] = [
     nameEn: 'DRAGOON',
     url: 'https://jp.finalfantasyxiv.com/jobguide/dragoon/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/J/BeaZcTXteNvSsWalB0nFRs9RY0.png',
-    iconName: '/src/assets/job-icon/Dragoon.png',
+    iconName: '/job-icon/Dragoon.png',
     characteristics: {
       leadership: 5,
       teamwork: 7,
@@ -171,7 +171,7 @@ export const jobs: Job[] = [
     nameEn: 'NINJA',
     url: 'https://jp.finalfantasyxiv.com/jobguide/ninja/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/x/7vmFPYZK7BP-GjXh54byBtPMfk.png',
-    iconName: '/src/assets/job-icon/Ninja.png',
+    iconName: '/job-icon/Ninja.png',
     characteristics: {
       leadership: 4,
       teamwork: 7,
@@ -187,7 +187,7 @@ export const jobs: Job[] = [
     nameEn: 'SAMURAI',
     url: 'https://jp.finalfantasyxiv.com/jobguide/samurai/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/R/bayc3ntAXDZXawPJtUi4h1K6qk.png',
-    iconName: '/src/assets/job-icon/Samurai.png',
+    iconName: '/job-icon/Samurai.png',
     characteristics: {
       leadership: 3,
       teamwork: 5,
@@ -203,7 +203,7 @@ export const jobs: Job[] = [
     nameEn: 'REAPER',
     url: 'https://jp.finalfantasyxiv.com/jobguide/reaper/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/J/es2iX_LznvaM9ZWr45Z-3UFEhw.png',
-    iconName: '/src/assets/job-icon/Reaper.png',
+    iconName: '/job-icon/Reaper.png',
     characteristics: {
       leadership: 4,
       teamwork: 6,
@@ -221,7 +221,7 @@ export const jobs: Job[] = [
     nameEn: 'BARD',
     url: 'https://jp.finalfantasyxiv.com/jobguide/bard/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/E/BLaFNum5eZTA4O_SkJbw9FTVxw.png',
-    iconName: '/src/assets/job-icon/Bard.png',
+    iconName: '/job-icon/Bard.png',
     characteristics: {
       leadership: 6,
       teamwork: 8,
@@ -237,7 +237,7 @@ export const jobs: Job[] = [
     nameEn: 'MACHINIST',
     url: 'https://jp.finalfantasyxiv.com/jobguide/machinist/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/2/sbSE5KxLwc6oFnWPit-uD0YTv8.png',
-    iconName: '/src/assets/job-icon/Machinist.png',
+    iconName: '/job-icon/Machinist.png',
     characteristics: {
       leadership: 3,
       teamwork: 5,
@@ -253,7 +253,7 @@ export const jobs: Job[] = [
     nameEn: 'DANCER',
     url: 'https://jp.finalfantasyxiv.com/jobguide/dancer/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/H/UBUIj9lw4pB4Crc52xRVuS0r8w.png',
-    iconName: '/src/assets/job-icon/Dancer.png',
+    iconName: '/job-icon/Dancer.png',
     characteristics: {
       leadership: 5,
       teamwork: 9,
@@ -271,7 +271,7 @@ export const jobs: Job[] = [
     nameEn: 'BLACK MAGE',
     url: 'https://jp.finalfantasyxiv.com/jobguide/blackmage/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/0/nEvovFrqSbEnN1h-XMgQRQbEWc.png',
-    iconName: '/src/assets/job-icon/BlackMage.png',
+    iconName: '/job-icon/BlackMage.png',
     characteristics: {
       leadership: 2,
       teamwork: 4,
@@ -287,7 +287,7 @@ export const jobs: Job[] = [
     nameEn: 'SUMMONER',
     url: 'https://jp.finalfantasyxiv.com/jobguide/summoner/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/g/d9j5kML19_A7OiovShNCCfQjAo.png',
-    iconName: '/src/assets/job-icon/Summoner.png',
+    iconName: '/job-icon/Summoner.png',
     characteristics: {
       leadership: 4,
       teamwork: 6,
@@ -303,7 +303,7 @@ export const jobs: Job[] = [
     nameEn: 'RED MAGE',
     url: 'https://jp.finalfantasyxiv.com/jobguide/redmage/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/5/7H3ISOMOTgQtfQh_5-vDvlMVFA.png',
-    iconName: '/src/assets/job-icon/RedMage.png',
+    iconName: '/job-icon/RedMage.png',
     characteristics: {
       leadership: 5,
       teamwork: 7,
@@ -321,7 +321,7 @@ export const jobs: Job[] = [
     nameEn: 'VIPER',
     url: 'https://jp.finalfantasyxiv.com/jobguide/viper/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/P/Wl2XBTi_lx53ZsC7Q7gV5XzPxI.png',
-    iconName: '/src/assets/job-icon/Viper.png',
+    iconName: '/job-icon/Viper.png',
     characteristics: {
       leadership: 4,
       teamwork: 6,
@@ -339,7 +339,7 @@ export const jobs: Job[] = [
     nameEn: 'PICTOMANCER',
     url: 'https://jp.finalfantasyxiv.com/jobguide/pictomancer/',
     iconUrl: 'https://lds-img.finalfantasyxiv.com/h/r/euEU_3msfuf5vM02UUSYf-hqi4.png',
-    iconName: '/src/assets/job-icon/Pictomancer.png',
+    iconName: '/job-icon/Pictomancer.png',
     characteristics: {
       leadership: 3,
       teamwork: 6,

@@ -1,6 +1,5 @@
-import { Job } from '../types';
 import { jobs as jobsData } from '../data/jobs'; // jobs data をインポート (相対パスで修正)
-import { UserCharacteristics, JobCharacteristics } from '../types'; // Import the interfaces
+import { Job, UserCharacteristics, JobCharacteristics } from '../types'; // types/index.ts から型定義をインポート (Job を追加)
 
 // 仮実装: ユーザー特性スコアを計算する関数 (実際の実装は別途必要)
 const calculateUserCharacteristics = (answers: string[]) => {
