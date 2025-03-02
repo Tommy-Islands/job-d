@@ -27,4 +27,7 @@ export interface Job {
     magic: number;         // 魔法適性
   };
   description: string; // おすすめ理由のテキストを追加
-} 
+}
+
+export type UserCharacteristics = object; // ユーザー特性の型定義 (仮)
+export type JobCharacteristics = object; // ジョブ特性の型定義 (仮) 
