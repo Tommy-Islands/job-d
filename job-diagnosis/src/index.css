@@ -120,5 +120,24 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
   }
+}
+
+/* FF14風のカスタムスクロールバー */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1b1f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3a3c42;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4a4c52;
 }
