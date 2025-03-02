@@ -118,6 +118,7 @@
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
     font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
@@ -140,4 +141,20 @@
 
 ::-webkit-scrollbar-thumb:hover {
   background: #4a4c52;
+}
+
+body {
+  background-image: url('https://lds-img.finalfantasyxiv.com/h/D/5T8fdfNuwj2eMUSeCiVl09Qd-0.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+/* スマホ向けの背景画像 */
+@media (max-width: 640px) {
+  body {
+    background-image: url('https://lds-img.finalfantasyxiv.com/h/f/gTB17Xk8yrrAg_xOMI5-2ndVnM.jpg');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
 }
